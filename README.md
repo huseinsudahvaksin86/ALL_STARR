@@ -1,1 +1,1 @@
-# ALL_STARR
+# ALL_STARR class
