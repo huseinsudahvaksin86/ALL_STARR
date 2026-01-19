@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+</ul>
+</nav>
+
+
+<section id="tentang">
+<h2>Tentang Kelas</h2>
+<p style="text-align:center; max-width:800px; margin:auto;">Kelas <strong>025 (A) ALL_STAR</strong> merupakan bagian dari Program Studi <strong>S1 Keperawatan</strong> yang dibentuk dengan semangat kebersamaan, profesionalisme, dan kepedulian terhadap sesama. Kami dipersiapkan menjadi perawat yang kompeten, beretika, dan berjiwa humanis.</p>
+</section>
+
+
+<section id="kegiatan" class="highlight">
+<h2>Berita & Kegiatan Terbaru</h2>
+<div class="grid">
+<div class="card"><h3>Praktikum Keperawatan Dasar</h3><p>Kegiatan laboratorium untuk melatih keterampilan dasar asuhan keperawatan.</p></div>
+<div class="card"><h3>Praktik Klinik</h3><p>Pengalaman langsung di rumah sakit dan puskesmas mitra.</p></div>
+<div class="card"><h3>Bakti Sosial Kesehatan</h3><p>Kegiatan pengabdian masyarakat berupa edukasi dan pelayanan kesehatan.</p></div>
+</div>
+</section>
+
+
+<section id="kurikulum">
+<h2>Kurikulum & Kompetensi</h2>
+<div class="grid">
+<div class="card"><h3>Mata Kuliah Inti</h3><p>Keperawatan Dasar, Keperawatan Medikal Bedah, Keperawatan Komunitas.</p></div>
+<div class="card"><h3>Kompetensi Lulusan</h3><p>Mampu memberikan asuhan keperawatan profesional dan aman.</p></div>
+<div class="card"><h3>Etika & Humanisme</h3><p>Mengedepankan komunikasi terapeutik dan empati kepada pasien.</p></div>
+</div>
+</section>
+
+
+<section id="fasilitas" class="highlight">
+<h2>Fasilitas Pembelajaran</h2>
+<div class="grid">
+<div class="card"><h3>Laboratorium Keperawatan</h3><p>Dilengkapi alat simulasi modern.</p></div>
+<div class="card"><h3>Perpustakaan Kesehatan</h3><p>Koleksi buku dan jurnal keperawatan.</p></div>
+<div class="card"><h3>Ruang Multimedia</h3><p>Mendukung pembelajaran digital.</p></div>
+</div>
+</section>
+
+
+<section id="prestasi">
+<h2>Prestasi & Pengalaman</h2>
+<div class="grid">
+<div class="card"><h3>Prestasi Akademik</h3><p>Mahasiswa berprestasi di bidang akademik.</p></div>
+<div class="card"><h3>Sertifikasi & Pelatihan</h3><p>Pelatihan BHD, PPGD, dan K3.</p></div>
+<div class="card"><h3>Pengalaman Klinik</h3><p>Praktik di berbagai fasilitas kesehatan.</p></div>
+</div>
+</section>
+
+
+<section id="testimoni" class="highlight">
+<h2>Testimoni Mahasiswa</h2>
+<div class="grid">
+<div class="card"><p>"Belajar di kelas ini membuat saya siap menjadi perawat profesional."</p><strong>- Mahasiswa</strong></div>
+<div class="card"><p>"Kekompakan dan praktik kliniknya sangat berkesan."</p><strong>- Mahasiswa</strong></div>
+</div>
+</section>
+
+
+<section id="kontak">
+<h2>Hubungi Kami</h2>
+<div class="grid">
+<div class="card">
+<p><strong>Email:</strong> allstar025@gmail.com</p>
+<p><strong>Kontak:</strong> 08xxxxxxxxxx</p>
+<p><strong>Lokasi:</strong> Kampus Program Studi S1 Keperawatan</p>
+</div>
+<div class="card">
+<form>
+<input type="text" placeholder="Nama" required>
+<input type="email" placeholder="Email" required>
+<textarea rows="4" placeholder="Pesan"></textarea>
+<button type="submit">Kirim Pesan</button>
+</form>
+</div>
+</div>
+</section>
+
+
+<footer>
+<p>&copy; 2025 Kelas 025 (A) ALL_STAR – S1 Keperawatan</p>
+</footer>
+
+
+</body>
+</html>
